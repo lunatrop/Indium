@@ -1,0 +1,6 @@
+{
+  "type": "chrome",
+  "host": "localhost",
+  "port": 9222,
+  "url": "https://chat.qwen.ai/?temporary-chat=true"
+}
